@@ -100,6 +100,7 @@ We will especially consider:
 
 ### Building the service
 From the root of this repository, run the following:
+
 - `sudo chmod +x service/run.sh`
 - `docker build -t pltsci-sdet-assignment service`
 
